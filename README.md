@@ -13,7 +13,4 @@ The target audience for the website is anyone who wants to scan QR codes quickly
   - [Screenshot]
   - ![FireShot Capture 001 - QR-CODE - ](https://user-images.githubusercontent.com/108583230/216021887-18995694-07e4-460f-b860-ba37623dbb61.png)
 
-  - [Links](#links)
-  - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
  
